@@ -1,0 +1,10 @@
+En HTML
+<link href="https://fonts.googleapis.com/css?family=Gamja+Flower" rel="stylesheet">
+
+en reglas CSS
+font-family: 'Gamja Flower', cursive;
+
+<link href="https://fonts.googleapis.com/css?family=Gamja+Flower" rel="stylesheet">
+
+	font-family: 'Gamja Flower', cursive;
+src: url('Gamja Flower') format("truetype");

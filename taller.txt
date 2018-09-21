@@ -1,0 +1,34 @@
+clonar la pagina
+
+
+www.modulosdesk.com
+
+Se crea la estructura de html y ss3
+
+Se contaron 13 filas que equivalen a 13 divs
+ubicar primer div
+
+1. barra de navegacion: dividirlo en 3 divs
+se colocan los texto
+ahora se flotan los elementos
+averiguar como se centra en un div
+
+2. terminarla.....
+
+
+<a>perfectionism to create the only desk that</a>
+		    <a>gives you absolute freedom in organizing,</a>
+		    <a>upgrading and changing your workspace.</a>
+
+
+
+El primer sistema de escritorio modular verdadero.
+
+
+Combinamos la utilidad, la artesanía y el perfeccionismo para crear el único escritorio que le brinda absoluta libertad para organizar, actualizar y cambiar su espacio de trabajo.
+
+
+
+ultima linea
+
+			

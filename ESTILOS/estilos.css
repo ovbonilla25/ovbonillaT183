@@ -1,0 +1,77 @@
+/*clonar la pagina
+
+
+www.modulosdesk.com
+*/
+
+html{
+
+	font-family:'Gamja Flower', cursive;
+	font-family: 'Roboto Slab', serif;
+}
+
+#fila1{
+	height: 30px;
+	background-color: gray;
+	font-family: 'Gamja Flower', cursive;
+}
+
+#fila2{
+	/*height: 200px;*/
+	background-color: silver;
+	height: 300px;
+}
+
+#fila3{
+	height: 250px;
+	background-color: gray;
+}
+
+#fila1>div{
+
+	/*border: 2px solid black;*/
+	display: inline-block;
+}
+
+#fila2>div{
+	/*border: 2px solid black;*/
+	display: inline-block;
+}
+
+#fila3>div{
+	/*border: 2px solid black;*/
+	display: inline-block;
+}
+
+.flotarizquierda{
+	float: left;
+}
+
+.flotarderecha{
+	float: right;
+}
+
+.centrar{
+	position: relative;
+	left: 25%;
+}
+
+#fila2texto{
+	margin: 0;
+	padding: 0;
+	width: 40%;
+}
+
+#fila2imagen{
+	width: 59%;
+	margin: 0;
+	padding: 0;
+	}
+
+
+@font-face{
+
+	
+	font-family: 'Roboto Slab', serif;
+	src: url('Roboto Slab') format("truetype");
+}
